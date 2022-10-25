@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "mshdinsight.azure-hdinsight",
+    "josephtbradley.hive-sql",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples"
+  ]
+}
