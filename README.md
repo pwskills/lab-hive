@@ -67,9 +67,9 @@ describe formatted pwskills
 12. create a .csv file in your system and write data to csv file.
 
 ```
-101 hyd sunny@pwskills.ai
-102 blr sudh@pwskills.ai
-103 bpl krish@pwskills.ai
+101 hyd sunny@pwskills.com
+102 blr sudh@pwskills.com
+103 bpl krish@pwskills.com
 ```
 
 13. keep your .csv file in the give table location
